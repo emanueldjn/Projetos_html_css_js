@@ -1,2 +1,1 @@
-# projetos
- 
+# Projetos simples e outros mais complexos usando HTML5, CSS3 e  JavaScript.
